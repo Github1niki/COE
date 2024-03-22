@@ -10,6 +10,6 @@ public class Main
 	    int b=sc.nextInt();
 	    System.out.println("enter 3rd number:");
 	    int c=sc.nextInt();
-	    System.out.println("The numbers are:"+a+b+c);
+	    System.out.println("The numbers are:"+a+" "+b+" "+c+" ");
 	}
 }
