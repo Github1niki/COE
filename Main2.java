@@ -5,7 +5,7 @@ public class Main2
 	{
 	    for(int n=1;n<=10;n++)
 	    {
-	       System.out.println(2*n);
+	       System.out.println("2*"+n+"="+2*n);
 	    }
 	}
 }
